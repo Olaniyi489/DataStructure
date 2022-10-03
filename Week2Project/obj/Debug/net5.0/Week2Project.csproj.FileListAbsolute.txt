@@ -1,0 +1,16 @@
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\bin\Debug\net5.0\Week2Project.exe
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\bin\Debug\net5.0\Week2Project.deps.json
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\bin\Debug\net5.0\Week2Project.runtimeconfig.json
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\bin\Debug\net5.0\Week2Project.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\bin\Debug\net5.0\Week2Project.dll
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\bin\Debug\net5.0\Week2Project.pdb
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.dll
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\refint\Week2Project.dll
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.pdb
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\Week2Project.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\Week2Project\Week2Project\obj\Debug\net5.0\ref\Week2Project.dll
